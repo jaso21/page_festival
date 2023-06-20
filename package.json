@@ -1,0 +1,26 @@
+{
+  "name": "page_festival",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y Html",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaso21/page_festival.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Jose Abad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaso21/page_festival/issues"
+  },
+  "homepage": "https://github.com/jaso21/page_festival#readme",
+  "devDependencies": {
+    "sass": "^1.63.4"
+  }
+}
